@@ -12,9 +12,9 @@
  
  🧑‍🎓 I’m currently an undergraduate in Department of Computer Science & Engineering, University of Moratuwa
  
- 👨‍💻 I’m currently working on Full Stack Development
+ 👨‍💻 I’m currently working on **Full Stack Development**
 
-💬 Ask me anything [here](https://github.com/NirukshaSandeepa/NirukshaSandeepa/issues)**
+💬 Ask me anything [here](https://github.com/NirukshaSandeepa/NirukshaSandeepa/issues)
 
 ⚡ Fun fact **Python was not named after a snake**
 
