@@ -14,6 +14,8 @@
  
  👨‍💻 I’m currently working on **Full Stack Development**
 
+ ♟️ A part time **International Rated Chess Player** (FIDE Rating: 1922)
+
 💬 Ask me anything [here](https://github.com/NirukshaSandeepa/NirukshaSandeepa/issues)
 
 ⚡ Fun fact **Python was not named after a snake**
