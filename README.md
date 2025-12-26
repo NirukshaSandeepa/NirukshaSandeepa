@@ -41,7 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,spring,typescript,javascript,python,postgres" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mui,tailwind,flutter,mysql" />
-    <img src="https://skillicons.dev/icons?i=npm,junit,graphql,gcp,androidstudio,figma,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,graphql,supabase,gcp,androidstudio,figma,git,docker" /><br>
 </div>
 
 <br/>
