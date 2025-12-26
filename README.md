@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🧑‍🎓 I’m currently an undergraduate in Department of Computer Science & Engineering, University of Moratuwa
+ 🧑‍🎓 I'm currently a final year undergraduate in Department of Computer Science & Engineering, University of Moratuwa
  
  👨‍💻 I’m currently working on **Full Stack Development**
 
@@ -39,9 +39,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,express,npm,python,mysql" />
-    <img src="https://skillicons.dev/icons?i=dart,flutter,c,cpp,java,spring,azure,gcp" />
-    <img src="https://skillicons.dev/icons?i=react,mui,tailwind,androidstudio,figma,git,kubernetes,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,spring,typescript,javascript,python,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mui,tailwind,flutter,mysql" />
+    <img src="https://skillicons.dev/icons?i=npm,junit,graphql,gcp,androidstudio,figma,git,docker" /><br>
 </div>
 
 <br/>
