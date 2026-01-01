@@ -60,7 +60,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=NirukshaSandeepa&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NirukshaSandeepa&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirukshaSandeepa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide=stars&include_all_commits=true" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NirukshaSandeepa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
